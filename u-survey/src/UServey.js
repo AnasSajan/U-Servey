@@ -3,7 +3,7 @@ var firebase = require('firebase');
 var uuid = require('uuid');
 
 var config = {
-    apiKey: "AIzaSyBrUDRBOpmXM5hidYTHD6LV8yzrFToAfW4",
+    apiKey: "get your owm api key and paste here",
     authDomain: "uservey-d3f97.firebaseapp.com",
     databaseURL: "https://uservey-d3f97.firebaseio.com",
     projectId: "uservey-d3f97",
